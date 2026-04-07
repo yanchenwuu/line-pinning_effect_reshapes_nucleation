@@ -1,2 +1,2 @@
-# line-tension_reshapes_nucleation
+# line-pinning_reshapes_nucleation
 Code for plotting main figures
